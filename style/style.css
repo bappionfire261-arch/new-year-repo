@@ -1,0 +1,36 @@
+
+
+
+/* banner section */
+
+.banner {
+   max-width: 1320px;
+    height: 600px;
+    background-image: url("../images/Banner\ Image.png");
+    margin: 0 auto;
+   border-radius: 16px;
+background: linear-gradient(180.00deg, rgba(7, 2, 17, 1),rgba(7, 2, 17, 0) 100%),url("../images/Banner\ Image.png");
+    
+}
+.banner-container {
+    text-align: center;
+    /* color: #FFFFFF; */
+    padding: 50px 100px;
+  
+    
+}
+.banner-container .banner-title {
+    font-size: 32px;
+    max-width:245px ;
+    margin: 0 auto;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 100px;
+   
+   
+}
+.banner-container .banner-content {
+    font-size: 72px;
+    /* width: 600px; */
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+}
