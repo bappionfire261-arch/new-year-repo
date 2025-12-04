@@ -110,3 +110,103 @@ margin-top: 120px;
     margin-left: 50px;
     margin-top: 48px;
 }
+
+
+/* hotel section */
+.hotel-container {
+    max-width: 1320px ;
+    height: 482px;
+    margin: 0 auto;
+    border-radius: 16px;
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+margin-top: 120px;
+}
+.hotel-title , .hotel-sr .hotel-jr .hotel-br {
+max-width: 549px;
+height: 168px;
+margin: 0 auto;
+text-align: center;
+padding: 100px 386px;
+padding-bottom: 214px;
+
+}
+.balti {
+color: red;
+}
+.bappi {
+    padding: 16px 32px 16px 32px;
+    border-radius: 8px;
+background: rgba(255, 0, 0, 1);
+margin: 30px;
+border: none;
+}
+/* comming song */
+.come {
+    max-width: 1358px;
+    height: 463px;
+    margin: 0 auto;
+}
+.come-container {
+    display: flex;
+    justify-content: center;
+       
+    max-width: 1357px;
+    height: 463px;
+    border: 0;
+    margin: 0 auto;
+
+}
+.title {
+    font-size: 15px;
+    font-weight: 500px;
+    color: rgb(255, 0, 0);
+    margin-bottom: 16px;
+}
+.subtitle{
+    max-width: 328px;
+    height: ;
+    font-size: 40px;
+    font-weight: 900px;
+    text-align: ;
+}
+
+.comeing {
+    text-align: left;
+    margin-left: auto;
+    margin: 113px;
+    text-align: left;
+    
+}
+.bmmm {
+    max-width: 140;
+    height: 140px;
+    margin-right: 190px;
+    padding-right: ;
+}
+.condision {
+    font-size: 40px;
+    font-weight: 59px;
+    color: red;
+}
+.h1112 {
+    box-sizing: border-box;
+border: 15px  rgba(255, 0, 0, 1);
+width: 320px;
+height: 320px;
+}
+.candid-img {
+    /* Ellipse 1 */
+width: 350.84px;
+height: 350.84px;
+transform: rotate(+0.00deg);
+justify-content: center;
+padding: auto;
+margin: 50px 10px;
+;
+}
+.undid-title {
+    max-width: 270px;
+    height: 170px;
+    margin: 113px;
+    margin-right: auto;
+}
